@@ -12,7 +12,7 @@ _InstrumentTunner:_ Chromatic instrument tuner for iOS devices.
 
 _My CV:_ A mobile app version of my CV.
 
-<img src="https://i.imgur.com/Z5k0kd7.png" width="250" height="600"><img src="https://i.imgur.com/z4R4Qgi.png" width="250" height="600"><img src="https://i.imgur.com/2WOI1Pw.png" width="250" height="600"><img src="https://i.imgur.com/dw4WHe0.png" width="250" height="600"><img src="https://i.imgur.com/0Twwl9t.png" width="250" height="600">
+<img src="https://i.imgur.com/fNQWCkF.png" width="250" height="600"><img src="https://i.imgur.com/Dli8lll.png" width="250" height="600"><img src="https://i.imgur.com/SLgMP5L.png" width="250" height="600"><img src="https://i.imgur.com/BjVIbNi.png" width="250" height="600"><img src="https://i.imgur.com/Aa7OtsF.png" width="250" height="600"><img src="https://i.imgur.com/ycA4pbg.png" width="250" height="600">
 
 <!---
 Juliallisio/Juliallisio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
